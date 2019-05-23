@@ -1,0 +1,1 @@
+A bot for distributing BLQ among active post voted by staked BLQ users.
