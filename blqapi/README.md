@@ -1,1 +1,0 @@
-A JSONRPC2.0 rpc api as dataprovider for bloque64.com
